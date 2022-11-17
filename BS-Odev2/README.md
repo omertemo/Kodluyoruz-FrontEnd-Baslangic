@@ -1,2 +1,1 @@
-# Tam olarak değil
-## Kodluyoruz Bootstrap 1. Ödev
+# Kodluyoruz Bootstrap 2. Ödev
