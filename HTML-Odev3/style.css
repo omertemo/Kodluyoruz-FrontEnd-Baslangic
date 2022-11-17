@@ -1,0 +1,36 @@
+body {
+  background-color: #e0c9a9;
+}
+
+h1 {
+  color: #5e2610;
+  font-style: italic;
+}
+.giris {
+  font-style: italic;
+  font-weight: bold;
+}
+.content {
+  margin: auto;
+  width: 60%;
+}
+
+.detail span {
+  color: #963138;
+}
+
+.detail p {
+  text-align: center;
+}
+
+h4 span {
+  background-color: #963102;
+  color: white;
+  border-radius: 30px;
+}
+
+.afiyet {
+  float: right;
+  font-family: "Courier New", Courier, monospace;
+  font-size: x-large;
+}

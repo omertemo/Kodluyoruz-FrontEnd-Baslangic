@@ -1,0 +1,52 @@
+/* Kod tekrarını elimden geldiğince engelleme çalıştım*/
+
+body {
+  width: 90%;
+  background-color: white;
+  margin: 200px auto;
+  text-align: center;
+}
+
+/* logo style */
+.logo {
+  width: min-content;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#search-box {
+  background-color: #eeeeee;
+}
+
+input {
+  width: 30%;
+}
+
+.down-section {
+  margin-top: 2px;
+}
+
+.special {
+  width: 34.4%;
+  height: 100px;
+  background-color: #7ee5da;
+  float: left;
+}
+.info {
+  height: 100px;
+  width: 20%;
+  float: left;
+  background-color: #70ccc2;
+  margin-left: 0.3%;
+}
+.contact {
+  width: 45%;
+  height: 100px;
+  background-color: #62b3aa;
+  float: left;
+  margin-left: 0.3%;
+}
+
+ul {
+  list-style: none;
+}

@@ -1,0 +1,9 @@
+ul li:nth-child(odd) {
+  background: #f9f9f9;
+}
+li:hover{
+  cursor: pointer;
+}
+.line{
+  text-decoration-line: line-through;
+}
